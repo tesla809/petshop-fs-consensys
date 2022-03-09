@@ -1,0 +1,37 @@
+{
+  "name": "petshopfs",
+  "version": "1.0.0",
+  "description": "Truffle's pet shop extended with tools circa 2022",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesla809/petshop-fs-consensys.git"
+  },
+  "keywords": [
+    "truffle",
+    "ethereum",
+    "blockchain",
+    "web3",
+    "solidity",
+    "metamask",
+    "nfts",
+    "erc-20",
+    "tokens",
+    "crypto"
+  ],
+  "author": "Anthony Albertorio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tesla809/petshop-fs-consensys/issues"
+  },
+  "homepage": "https://github.com/tesla809/petshop-fs-consensys#readme",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
