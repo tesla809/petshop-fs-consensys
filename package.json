@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/tesla809/petshop-fs-consensys#readme",
   "dependencies": {
+    "bn.js": "^5.2.0",
     "ethers": "^5.5.4"
   }
 }
