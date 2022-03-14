@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -33,6 +34,7 @@
   "homepage": "https://github.com/tesla809/petshop-fs-consensys#readme",
   "dependencies": {
     "bn.js": "^5.2.0",
-    "ethers": "^5.5.4"
+    "ethers": "^5.5.4",
+    "lite-server": "^2.6.1"
   }
 }
